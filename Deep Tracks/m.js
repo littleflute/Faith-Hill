@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Better Days.mp3";		
+f[2]	= "02 Somebody Stand by Me.mp3";		
+f[3]	= "03 If I Should Fall Behind.mp3";		
+f[4]	= "04 Free.mp3";		
+f[5]	= "05 If This Is the End.mp3";		
+f[6]	= "06 Back to You.mp3";		
+f[7]	= "07 Unsaveable.mp3";		
+f[8]	= "08 If You Ask.mp3";		
+f[9]	= "09 You Stay With Me.mp3";		
+f[10]	= "10 Wish for You.mp3";		
+f[11]	= "11 Boy.mp3";		
+f[12]	= "12 Why.mp3";		
+f[13]	= "13 Come to Jesus.mp3";		
